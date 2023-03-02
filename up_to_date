@@ -1,0 +1,5 @@
+git checkout update_script
+git merge master
+git add .
+git commit -m "Update README.md"     
+git push origin update_script
